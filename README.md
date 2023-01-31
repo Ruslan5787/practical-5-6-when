@@ -1,1 +1,1 @@
-# practical-5-6-when
+Практическая 5 - 6 when
